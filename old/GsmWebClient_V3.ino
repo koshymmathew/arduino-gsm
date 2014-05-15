@@ -93,7 +93,7 @@ void loop()
   
   // if the server's disconnected, stop the client:
    //for(;;)
-   delay(60000);   
+   delay(5000);   
 }
 
 
